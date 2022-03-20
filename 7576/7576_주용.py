@@ -1,5 +1,3 @@
-# 정답아님
-
 from collections import deque
 
 dr = [-1, 1, 0, 0]
@@ -26,12 +24,15 @@ M, N = map(int, input().split())
 arr = [list(map(int, input().split())) for _ in range(N)]
 bfs(0, 0)
 res = -9999
+is_zero = False
 for i in range(N):
     for j in range(M):
         if arr[i][j] == 0:
-            print(-1)
+            is_zero = True
         res = max(res, arr[i][j])
-if res == -1:
+if is_zero == True:
+    print(-1)
+elif res == -1:
     print(0)
 else:
     print(res - 1)

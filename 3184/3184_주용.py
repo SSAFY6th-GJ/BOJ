@@ -29,16 +29,15 @@ def bfs(r,c):
                 queue.append((nr, nc))
 
     # 늑대와 양이 최소 1개 이상 있을때만 적용
-    if wolf > 0 and sheep > 0:
-        if wolf > sheep:
-            total_sheep -= sheep
-        else:
-            total_wolf -= wolf
+    if wolf >= sheep:
+        total_sheep -= sheep
+    elif wolf < sheep:
+        total_wolf -= wolf
 
 R, C = map(int, input().split())
 arr = [list((input())) for _ in range(R)]
 visited = [[False] * C for _ in range(R)]
-# 일단 전체 늑대와 양의 수를 세기  ---- 시작
+# 일단 전체 늑대와 양의 수를 세기  ---- ## 안세도 된다.
 total_wolf = 0
 total_sheep = 0
 for i in range(R):
