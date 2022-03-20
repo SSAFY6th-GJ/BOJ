@@ -27,6 +27,7 @@ for i in range(N):
   for j in range(N):
     if arr[i][j] != 0:
       temp_virus.append((arr[i][j],i,j))
+# print(temp_virus)
 temp_virus.sort()     #temp _virus 추가된 데이터는 바이러스의 번호 순서대로 들어온 것이 아니기 때문에 sort로  정렬해준다.
 # print(temp_virus)
 virus = []
