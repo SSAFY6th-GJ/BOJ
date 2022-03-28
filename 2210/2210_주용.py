@@ -2,10 +2,12 @@ dr = [-1, 1, 0, 0]
 dc = [0, 0, -1, 1]
 def dfs(r, c, num):
     # if len(num) == 6 and num not in res: # 이거랑
+
     # if len(num) == 6:
-    #     if num not in res:        # 이거랑의 차이점
-    #     res.append(num)
-    #     return    # return 뒤에 없을때는 무슨 의미??
+    #     if num not in res:        # 이거랑의 차이점 똑같은 의미미
+
+   #         res.append(num)
+#         return    # return 뒤에 없을때는 무슨 의미?? 그 조건일때 끝낸다.(끝날 타이밍)
     for i in range(4):
         nr = r + dr[i]
         nc = c + dc[i]

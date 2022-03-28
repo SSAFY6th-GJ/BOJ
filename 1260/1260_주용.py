@@ -25,7 +25,7 @@ visited_bfs = [False] * (N+1)
 visited_dfs = [False] * (N+1)
 for m in range(M):
     x, y = map(int, input().split())
-    arr[x].append(y)            # 양방향향
+    arr[x].append(y)            # 양방향
     arr[y].append(x)
 
 for i in range(1, N+1): # 정점 번호가 작은 것을 먼저 방문
