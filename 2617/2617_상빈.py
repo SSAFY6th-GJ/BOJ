@@ -12,7 +12,6 @@
 
 '''
 
-
 # def getchild(lst, start, now, n):
 #
 #     if n == N // 2:
@@ -27,7 +26,6 @@
 #             v[num] = 0
 #             if start in cannot:
 #                 return
-
 
 from collections import deque
 
