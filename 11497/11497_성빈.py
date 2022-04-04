@@ -5,7 +5,7 @@ t = int(input())
 for _ in range(t):
     n = int(input())
     lst = list(map(int, input().split()))
-    lst.sort(reverse=True)
+    lst.sort()
     # print(lst)
 
     maxv = 0
@@ -21,4 +21,7 @@ for _ in range(t):
 그 다음 크기 순대로 양 옆을 채워나가면 된다.
 처음에는 직접 위의 순서대로 리스트를 채우려 했는데 너무 어려워서
 오름차순으로 정렬한 후 2 인덱스 차이 씩 빼주었다.
+'''
+'''
+[0,2,4,3,1]
 '''
