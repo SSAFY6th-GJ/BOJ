@@ -1,5 +1,4 @@
 from collections import deque
-
 def bfs(x):
     # cnt 로 해주는 방법은 왜 안되는거지
     # cnt = 0
