@@ -6,7 +6,7 @@ M = int(input())                # 예산
 start, end = 0, max(budget)
 while start <= end:
     money = 0
-    mid = (start + end) // 2    # 중간 지점 잡고
+    mid = (start + end) // 2    # 중간 지점 잡고 130
     for i in budget:            # 예산 요청한거 반복문 돌면서
         if mid < i:             # 중간보다 큰게 나오면
             money += mid        # 결과값에 중간값 더하기
