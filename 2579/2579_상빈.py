@@ -22,6 +22,6 @@ else:
     step[2] = max(stairs[0] + stairs[2], stairs[1] + stairs[2])
 
     for i in range(3, N):
-        step[i] = max(step[i-3] + stairs[i-1] + stairs[i], step[i-2]+stairs[i])
+        step[i] = max(step[i-3] + stairs[i-1] + stairs[i], step[i-2] + stairs[i])
 
     print(step[N-1])
