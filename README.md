@@ -9,16 +9,16 @@
 
 | date | title                                                        |
 | ---- | ------------------------------------------------------------ |
-| 3/20 | BFS <br />2178, 3184, 7576, 18405                            |
-| 3/23 | DFS<br />2468, 1260, 2617, 2210                              |
-| 3/27 | 기능개발, 멀쩡한 사각형, 없는 숫자 더하기, 음양 더하기, 키패드 누르기, 로또의 최고 순위와 최저 순위<br />livecoding : 전화번호 목록 |
-| 3/30 | 그리디<br />1700, 11497, 1931, 1339                          |
+| 3/20 | BFS <br />[2178](https://github.com/SSAFY6th-GJ/BOJ/tree/main/2178), [3184](https://github.com/SSAFY6th-GJ/BOJ/tree/main/3184), [7576](https://github.com/SSAFY6th-GJ/BOJ/tree/main/7576), [18405](https://github.com/SSAFY6th-GJ/BOJ/tree/main/18405) |
+| 3/23 | DFS<br />[2468](https://github.com/SSAFY6th-GJ/BOJ/tree/main/2468), [1260](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1260), [2617](https://github.com/SSAFY6th-GJ/BOJ/tree/main/2617), [2210](https://github.com/SSAFY6th-GJ/BOJ/tree/main/2210) |
+| 3/27 | [기능개발](https://github.com/SSAFY6th-GJ/programmers/tree/main/기능개발), [멀쩡한 사각형](https://github.com/SSAFY6th-GJ/programmers/tree/main/멀쩡한 사각형), [없는 숫자 더하기](https://github.com/SSAFY6th-GJ/programmers/tree/main/없는 숫자 더하기), [음양 더하기](https://github.com/SSAFY6th-GJ/programmers/tree/main/음양 더하기), [키패드 누르기](https://github.com/SSAFY6th-GJ/programmers/tree/main/키패드 누르기), [로또의 최고 순위와 최저 순위](https://github.com/SSAFY6th-GJ/programmers/tree/main/로또의 최고 순위와 최저 순위)<br />livecoding : [전화번호 목록](https://github.com/SSAFY6th-GJ/programmers/tree/main/전화번호 목록) |
+| 3/30 | 그리디<br />[1700](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1700), [11497](https://github.com/SSAFY6th-GJ/BOJ/tree/main/11497), [1931](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1931), [1339](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1339) |
 | 4/3  | pass                                                         |
 | 4/6  | pass                                                         |
-| 4/10 | 1697, 1699, 2156, 21608<br />게임맵최단거리, 괄호변환, 프렌즈4블록, 가장큰수 |
-| 4/13 | 1406, 18111, 2579, 2512                                      |
-| 4/17 | 프린터, 조이스틱, 방금그곡, 카펫                             |
-| 4/20 | 11403, 1107,16954,1735                                       |
+| 4/10 | [1697](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1697), [1699](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1699), [2156](https://github.com/SSAFY6th-GJ/BOJ/tree/main/2156), [21608](https://github.com/SSAFY6th-GJ/BOJ/tree/main/21608)<br />[게임 맵 최단거리](https://github.com/SSAFY6th-GJ/programmers/tree/main/게임 맵 최단거리), [괄호변환](https://github.com/SSAFY6th-GJ/programmers/tree/main/괄호변환), [프렌즈4블록](https://github.com/SSAFY6th-GJ/programmers/tree/main/프렌즈4블록), [가장큰수](https://github.com/SSAFY6th-GJ/programmers/tree/main/가장큰수) |
+| 4/13 | [1406](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1406), [18111](https://github.com/SSAFY6th-GJ/BOJ/tree/main/18111), [2579](https://github.com/SSAFY6th-GJ/BOJ/tree/main/2579), [2512](https://github.com/SSAFY6th-GJ/BOJ/tree/main/2512) |
+| 4/17 | [프린터](https://github.com/SSAFY6th-GJ/programmers/tree/main/프린터), [조이스틱](https://github.com/SSAFY6th-GJ/programmers/tree/main/조이스틱), [방금그곡](https://github.com/SSAFY6th-GJ/programmers/tree/main/방금그곡), [카펫](https://github.com/SSAFY6th-GJ/programmers/tree/main/카펫) |
+| 4/20 | [11403](https://github.com/SSAFY6th-GJ/BOJ/tree/main/11403), [1107](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1107), [16954](https://github.com/SSAFY6th-GJ/BOJ/tree/main/16954), [1735](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1735) |
 
 ## 🚩진행방식
 
