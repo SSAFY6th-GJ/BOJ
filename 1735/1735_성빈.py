@@ -13,7 +13,7 @@ b = b*c
 e = a+b
 
 # 최대공약수
-gcd = math.gcd(e, f)
+gcd = math.gcd(e, f) # math.gcd(숫자1, 숫자2) = 숫자1이랑 숫자2의 최대공약수를 반환해줌
 e //= gcd
 f //= gcd
 print(e, f)

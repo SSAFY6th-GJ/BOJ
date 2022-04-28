@@ -35,7 +35,7 @@ else:
                     num += str(int(i)+j)
                     break
     cnt += abs(int(num)-int(N))
-    print(num)
+    # print(num)
     print(cnt)
 
 '''
