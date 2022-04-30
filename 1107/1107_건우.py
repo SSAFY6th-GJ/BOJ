@@ -19,7 +19,7 @@ def checking(a):
       check[i] = False
       return
 
-min_cnt = 100000
+min_cnt = 1000000
 min_value = 0
 for i in range(1000000):
   a = str(i)
