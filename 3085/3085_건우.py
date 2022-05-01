@@ -82,12 +82,12 @@ def check_max():
 
 di = [1, 0]
 dj = [0, 1]
-for i in range(N-1):
-  for j in range(N-1):
+for i in range(N):
+  for j in range(N):
     for d in range(2):
       new_i = i + di[d]
       new_j = j + dj[d]
-      if arr[i][j] != arr[new_i][new_j]:
+      if 0<=new_i<N and 0<= new_j < N  and arr[i][j] != arr[new_i][new_j]:
         arr[i][j], arr[new_i][new_j] = arr[new_i][new_j], arr[i][j]
         res = max(res,check_max())
         arr[i][j], arr[new_i][new_j] = arr[new_i][new_j], arr[i][j]
