@@ -22,7 +22,7 @@
 | 4/24 | pass                                                         |
 | 4/27 | [구명보트](https://github.com/SSAFY6th-GJ/programmers/tree/main/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8), [메뉴리뉴얼](https://github.com/SSAFY6th-GJ/programmers/tree/main/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC), [폰켓몬](https://github.com/SSAFY6th-GJ/programmers/tree/main/%ED%8F%B0%EC%BC%93%EB%AA%AC), [거리두기 확인하기](https://github.com/SSAFY6th-GJ/programmers/tree/main/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
 | 4/30 | [1541,](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1541) [3085](https://github.com/SSAFY6th-GJ/BOJ/tree/main/3085), [2212](https://github.com/SSAFY6th-GJ/BOJ/tree/main/2212), [16234](https://github.com/SSAFY6th-GJ/BOJ/tree/main/16234) |
-| 5/4  | 9095                                                         |
+| 5/4  | [1002](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1002), [9095](https://github.com/SSAFY6th-GJ/BOJ/tree/main/9095) |
 
 ## 🚩진행방식
 
