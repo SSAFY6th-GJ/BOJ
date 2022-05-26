@@ -25,6 +25,11 @@
 | 5/4  | [1002](https://github.com/SSAFY6th-GJ/BOJ/tree/main/1002), [9095](https://github.com/SSAFY6th-GJ/BOJ/tree/main/9095), [11726](https://www.acmicpc.net/problem/11726), [14891](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14891) |
 | 5/8  | [체육복](https://github.com/SSAFY6th-GJ/programmers/tree/main/%EC%B2%B4%EC%9C%A1%EB%B3%B5), [모의고사](https://github.com/SSAFY6th-GJ/programmers/tree/main/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC), [실패율](https://github.com/SSAFY6th-GJ/programmers/tree/main/%EC%8B%A4%ED%8C%A8%EC%9C%A8), [크레인인형뽑기](https://github.com/SSAFY6th-GJ/programmers/tree/main/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84) |
 | 5/11 | [6236](https://github.com/SSAFY6th-GJ/BOJ/tree/main/6236), 1780, [11060](https://github.com/SSAFY6th-GJ/BOJ/tree/main/11060),[16918](https://github.com/SSAFY6th-GJ/BOJ/tree/main/16918) |
+| 5/15 | pass                                                         |
+| 5/18 | pass                                                         |
+| 5/22 | pass                                                         |
+| 5/25 | [신규아이디추천](https://github.com/SSAFY6th-GJ/programmers/tree/main/신규아이디추천), [콜라츠 추측](https://github.com/SSAFY6th-GJ/programmers/tree/main/콜라츠 추측), [예산](https://github.com/SSAFY6th-GJ/programmers/tree/main/예산), 숫자문자열과 영단어 |
+| 5/29 | 13460, 12100, 3190, 14499                                    |
 ## 🚩진행방식
 
 * 늦어도 목요일, 월요일 오전까지 문제를 뽑아서 폴더 생성한다.
