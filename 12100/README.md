@@ -1,0 +1,1 @@
+[BOJ 12100번: 2048(easy)](https://www.acmicpc.net/problem/12100)

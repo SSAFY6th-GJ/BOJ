@@ -2,7 +2,7 @@ gears = [list(map(int, input())) for _ in range(4)]
 k = int(input())
 for _ in range(k):
   pos, direct = map(int,input().split())
-  pos = pos -1
+  pos = pos - 1
   rotating_direct = [0, 0, 0, 0]
   # 왼쪽에 있는 애들 체크
   rotating_direct[pos] = direct
@@ -20,7 +20,7 @@ for _ in range(k):
   for k in range(4):
     if rotating_direct[k] == 1:  #시계방향으로 회전
       gears[k] = [gears[k][7]] + gears[k][0:7]
-    elif rotating_direct[k] == -1:
+    elif rotating_direct[k] == -1: # 반시계방향으로 회전
       gears[k] = gears[k][1:8] +[gears[k][0]] 
 
 answer = 0
