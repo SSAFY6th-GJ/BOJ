@@ -7,6 +7,7 @@ dy = [0, 1, -1, 0, 0]
 
 N, M ,x, y, K = map(int, input().split())
 arr = [list(map(int, input().split())) for _ in range(N)]
+
 command = list(map(int, input().split()))
 dice = [0] * 6
 
