@@ -1,1 +1,2 @@
-[BOJ 3190번: 뱀](https://www.acmicpc.net/problem/3190)
+# [BOJ 3190번: 뱀](https://www.acmicpc.net/problem/3190)
+
