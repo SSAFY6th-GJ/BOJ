@@ -20,9 +20,8 @@ while True:
     # 2-a
     if arr[nr][nc] == 0:    # 왼쪽이 청소가 안되어있으면
         d = (d+3)  % 4  # 회전하기
-        r, c = nr, nc   # 이동(한칸 전진)
+        r, c = nr, nc   # nr, nc는 왼쪽 좌표 - 이동(한칸 전진)
         continue
-    # 왼쪽에 청소가 되어있다면 그냥 회전  -> 35번째줄
     # 2-b
     if arr[r-1][c] and arr[r][c-1] and arr[r+1][c] and arr[r][c+1]: # 주변이 청소가 되어있거나 벽일때
         nr = r + dr[(d+2)%4] # 뒤 위치 탐색
@@ -30,8 +29,9 @@ while True:
         if arr[nr][nc] == 1:    # 벽이면 멈추기
             break
         else:
-            r, c = nr, nc       # 벽이 아니면 후진            continue
-    if arr[nr][nc]: # 청소했으면
+            r, c = nr, nc       # 벽이 아니면 후진
+            continue
+    if arr[nr][nc]: # 왼쪽에 청소가 되어있다면 그냥 회전
         d = (d+3) % 4   # 회전
         continue
 print(cnt)
