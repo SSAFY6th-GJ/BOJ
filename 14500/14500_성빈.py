@@ -41,6 +41,8 @@ def check(x, y):
         for i in range(4):
             if 0 <= x+case[d][i][0] < N and 0 <= y+case[d][i][1] < M:
                 cnt += arr[x+case[d][i][0]][y+case[d][i][1]]
+            else:
+                break
 
         answer = max(answer, cnt)
 
