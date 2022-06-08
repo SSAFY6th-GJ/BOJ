@@ -21,11 +21,10 @@ def calc(txt):
             else:
                 ans = ans // int(txt[n+1])
 
-        n += 2
+        n += 2                                          # 바로 다음 연산자로 넘어가야되니까 숫자 건너뛰게 +2
 
     global max_num
-    max_num = max(max_num, ans)
-
+    max_num = max(max_num, ans)                         # 비교해주는곳
     global min_num
     min_num = min(min_num, ans)
 
