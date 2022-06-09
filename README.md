@@ -31,7 +31,8 @@
 | 5/25 | [신규아이디추천](https://github.com/SSAFY6th-GJ/programmers/tree/main/신규아이디추천), [콜라츠 추측](https://github.com/SSAFY6th-GJ/programmers/tree/main/콜라츠 추측), [예산](https://github.com/SSAFY6th-GJ/programmers/tree/main/예산), 숫자문자열과 영단어 |
 | 5/29 | [13460](https://github.com/SSAFY6th-GJ/BOJ/tree/main/13460), [12100](https://github.com/SSAFY6th-GJ/BOJ/tree/main/12100), [3190](https://github.com/SSAFY6th-GJ/BOJ/tree/main/3190), [14499](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14499) |
 | 6/1  | [14503](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14503), [14502](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14502), [14501](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14501), [14500](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14500) |
-| 6/8  | [14888](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14888), [14889](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14889), [14890](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14890) |
+| 6/8  | pass                                                         |
+| 6/12 | [14888](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14888), [14889](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14889), [14890](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14890) |
 ## 🚩진행방식
 
 * 늦어도 목요일, 월요일 오전까지 문제를 뽑아서 폴더 생성한다.
