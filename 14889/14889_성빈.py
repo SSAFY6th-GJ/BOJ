@@ -12,8 +12,9 @@ team = []
 for i in list(combinations(players, N//2)):
     team.append(i)
 
+print(team)
 mingap = 9999999
-for i in range(len(team)//2):
+for i in range(len(team)//2): # 0,1,2 ...
     # a팀
     Ateam = 0 #a팀 능력치
     for j in range(N//2):
