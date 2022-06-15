@@ -7,6 +7,9 @@ arr = [[0] * 101 for _ in range(101)]
 di = [0, -1, 0, 1]  # 우상좌하
 dj = [1, 0, -1, 0]
 
+
+# 커브를 그리는 패턴이 지금까지 있던 원소들의 역순에다가 +1 씩 더해지므로 한단계 올라갈때마다
+# 늘려나가는 식으로 작성
 def curve_list(d,g):
     curve = [d]
     for _ in range(g):
@@ -15,8 +18,7 @@ def curve_list(d,g):
     return curve
 
 
-
-
+# curve에 있는 방향으로 arr 에 그려준다.
 for info in infos:
     x, y, d, g = map(int, info)
 
