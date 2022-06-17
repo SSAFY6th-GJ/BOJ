@@ -74,9 +74,9 @@ def rolling(vector):
 
     '''
     
-            www
-            w0w
-            www
+            123
+            804
+            765
          gggrrrbbb
          g4gr2rb5b
          gggrrrbbb
@@ -132,8 +132,6 @@ def rolling(vector):
         cube[0][0][2], cube[0][1][2], cube[0][2][2] = temp
 
 
-
-
 T = int(input())
 
 for i in range(T):
@@ -159,11 +157,11 @@ for i in range(T):
     N = int(input())
     roll_d = input().split()
 
-    print(roll_d)
+    # print(roll_d)
 
     for i in range(len(roll_d)):
         cnt = 1
-        print(roll_d[i][1])
+        # print(roll_d[i][1])
         if roll_d[i][1] == '-':
             cnt = 3
         for j in range(cnt):
@@ -171,3 +169,15 @@ for i in range(T):
 
     for line in cube[0]:
         print(*line)
+
+        '''
+        4
+        1
+        L-
+        2
+        F+ B+
+        4
+        U- D- L+ R+
+        10
+        L- U- L+ U- L- U- U- L+ U+ U+
+        '''

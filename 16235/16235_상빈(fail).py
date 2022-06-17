@@ -116,6 +116,7 @@ def spring():
 
 
 def fall():
+
     for i in range(N):
         for j in range(N):
             farm[i][j] += feed[i][j]
@@ -144,7 +145,8 @@ trees = [[deque() for _ in range(N)] for _ in range(N)]
 
 for _ in range(M):
     x, y, z = map(int, input().split())
-    trees[y-1][x-1].append(z)
+    trees[x-1][y-1].append(z)
+    trees[x-1][y-1].sort()
 
 for i in range(K):
     spring()
