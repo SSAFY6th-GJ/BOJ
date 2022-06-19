@@ -68,6 +68,3 @@ for i in range(N):
 print(answer)
 
 
-'''
-마지막 테스트케이스만 틀림
-'''

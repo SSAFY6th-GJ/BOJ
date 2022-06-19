@@ -1,4 +1,8 @@
 from pprint import pprint
+import sys
+input = sys.stdin.readline
+
+
 N, M, K = map(int, input().split())
 A = [list(map(int, input().split())) for _ in range(N)]
 trees = [[[] for _ in range(N)] for _ in range(N)]
@@ -15,8 +19,9 @@ def year():
     for i in range(N):
         for j in range(N):
             for k in range(len(trees[i][j])):
+                trees[i][j].sort()
                 if land[i][j] >= trees[i][j][k]:
-                    if   trees[i][j][k] > 0:
+                    if trees[i][j][k] > 0:
                         
                         land[i][j] -= trees[i][j][k]
                         trees[i][j][k] += 1
@@ -34,7 +39,7 @@ def year():
                         new_j = j + dj[d]
                         if 0 <= new_i < N and 0 <= new_j < N:
                             trees[new_i][new_j].append(1)
-                            trees[new_i][new_j].sort()
+
     # 겨울
     for i in range(N):
         for j in range(N):
