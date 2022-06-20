@@ -36,7 +36,7 @@
 | 6/12 | [14891](https://github.com/SSAFY6th-GJ/BOJ/tree/main/14891), [15683](https://github.com/SSAFY6th-GJ/BOJ/tree/main/15683), [15684](https://github.com/SSAFY6th-GJ/BOJ/tree/main/15684), [15685](https://github.com/SSAFY6th-GJ/BOJ/tree/main/15685) |
 | 6/15 | [15686](https://github.com/SSAFY6th-GJ/BOJ/tree/main/15686), [5373](https://github.com/SSAFY6th-GJ/BOJ/tree/main/5373), [16235](https://github.com/SSAFY6th-GJ/BOJ/tree/main/16235) |
 | 6/19 | pass                                                         |
-| 6/22 | 16236, 17144, 17143, 17140, 17142, 17779                     |
+| 6/22 | [16236](https://github.com/SSAFY6th-GJ/BOJ/tree/main/16236), [17144](https://github.com/SSAFY6th-GJ/BOJ/tree/main/17144), [17143](https://github.com/SSAFY6th-GJ/BOJ/tree/main/17143), [17140](https://github.com/SSAFY6th-GJ/BOJ/tree/main/17140), [17142](https://github.com/SSAFY6th-GJ/BOJ/tree/main/17142), [17779](https://github.com/SSAFY6th-GJ/BOJ/tree/main/17779) |
 ## 🚩진행방식
 
 * 늦어도 목요일, 월요일 오전까지 문제를 뽑아서 폴더 생성한다.
